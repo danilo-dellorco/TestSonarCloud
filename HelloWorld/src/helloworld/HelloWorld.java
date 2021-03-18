@@ -6,5 +6,8 @@ public class HelloWorld {
 		if (a == 6) {
 			System.out.println("Hello, World !");
 		}
+		else{
+			System.out.println("Goodbye, World ...");
+		}
 	}
 }
