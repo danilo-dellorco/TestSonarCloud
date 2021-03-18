@@ -2,7 +2,7 @@ package helloworld;
 
 public class HelloWorld {
 	public static void main() {
-		int a = 6;
+		int a = 5;
 		if (a == 6) {
 			System.out.println("Hello, World !");
 		}
